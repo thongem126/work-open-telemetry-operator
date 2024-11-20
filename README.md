@@ -1,0 +1,1 @@
+# work-open-telemetry-operator
