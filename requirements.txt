@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-sqlalchemy
+opentelemetry-exporter-otlp
